@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Documentation Example
 
-You can use the [editor on GitHub](https://github.com/jlsestak/RazorPagesMovie/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
